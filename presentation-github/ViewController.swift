@@ -4,7 +4,8 @@
 //
 //  Created by Alain on 15-10-05.
 //  Copyright (c) 2015 Production sur support. All rights reserved.
-//
+//  ----
+//  Projet lié à github
 
 import UIKit
 
